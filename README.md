@@ -13,7 +13,7 @@ This list was created for a client who had thousands of people signing up to get
 * If some of your emails contain multiple @@ like user@@gmail.com it will muck up the email split formula so do a find replace on @@ to @ until you have removed all multiple @@.
 
 ###Why release this publicly?:
-We have made this list freely available to our clients for a while now so thought others might also find it useful. Personally I use it in Google Sheets to do a quick scrub of a contact list to split the business email accounts from the personal ones.
+After searching around we could not find one list which had enough coverage for our needs so we built one ourselves from a feed of actual trial/demo requests our clients sent us. We have made this list freely available to our clients for a while now so thought others might also find it useful. Personally I use it in Google Sheets to do a quick scrub of a contact list to split the business email accounts from the personal ones.
 
 ###Explanation of field names:
 - Domain = the email domain.
