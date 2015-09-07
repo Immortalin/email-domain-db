@@ -30,6 +30,13 @@ After searching around we could not find one list which had enough coverage for 
 - Typo = common typo domains. (user@gmail.cmo)
 - Webmail = free webmail accounts. (user@gmail.com)
 
+###Real world use cases for this database that we have seen: 
+- A client who had a hugely successful consumer offering ($1b+ valuation) wanted to go upmarket and start moving into B2B. The firehose of consumer trial signups drowned out the tiny number of business signups. Creating business specific landing pages did not work as they would quickly get contaminated with consumer signups. Using the emaildomaindb they were able to filter out 98.4% of the trials as consumer so the business sales team could focus on the rest. 
+- A client segments inbound support request emails using the list so business ones are assigned a higher priority. 
+- A recruitment agency had multiple email addresses for each candidate and wanted to put the personal email in one field and the business one in another. The personal one would be used for candidate emails (do you want a job) and the business one for hiring manager emails (do you want this candidate). 
+- A client uses it to score the quality of any email marketing list they purchase. Anything over a specific percentage of free/personal emails in a list they generally decline to purchase it. 
+- A client had the good luck/misfortune of having their e-book download form included in a learning module taught at hundreds of schools. Students quickly filled nearly the entire pipeline with their download requests.
+
 ###Questions:
 Email adam@leadstage.com
 
